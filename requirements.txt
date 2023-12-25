@@ -1,0 +1,11 @@
+lxml
+requests
+bs4
+pandas
+scikit-learn
+ipympl
+seaborn
+
+# co the can
+numpy
+matplotlib
